@@ -1,9 +1,8 @@
 # Gameflix, a Netflix Clone
 
-![Main Game](https://i.imgur.com/LbH822d.gif)
-![Row Games](https://i.imgur.com/WqzYy1X.gif)
----
-[![Watch the video](https://imgur.com/FEbxBwo.png)](https://youtu.be/TFuAggAba2k)
+<img align="right" src="https://github.com/erika-freitas/gameflix/blob/main/img/gameflix-preview_01.gif?raw=true"/>
+
+<img align="right" src="https://github.com/erika-freitas/gameflix/blob/main/img/gameflix-preview_02.gif?raw=true"/>
 
 ---
 ### Special thanks and resources
